@@ -36,7 +36,6 @@ ThemeData getApplicationTheme() {
       buttonTheme: ButtonThemeData(
           shape: StadiumBorder(),
           disabledColor: ColorManager.grey1,
-          
           splashColor: ColorManager.primaryOpacity70),
 
       //elevated button theme

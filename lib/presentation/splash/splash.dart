@@ -15,7 +15,7 @@ class _SplashViewState extends State<SplashView> {
       backgroundColor: ColorManager.primary,
       body: Center(
           child: Image(
-        image: AssetImage("ImageAssets.splashLogo"),
+        image: AssetImage(ImageAssets.splashLogo),
       )),
     );
   }

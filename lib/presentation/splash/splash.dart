@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:ksk/presentation/register/assets_manager.dart';
 import 'package:ksk/presentation/resources/color_manager.dart';
 
 class SplashView extends StatefulWidget {

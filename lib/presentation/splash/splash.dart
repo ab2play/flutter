@@ -16,7 +16,7 @@ class _SplashViewState extends State<SplashView> {
   Timer? _timer;
 
   _startDelay() {
-    _timer = Timer(Duration(seconds: 10), _goNext);
+    _timer = Timer(Duration(seconds: 2), _goNext);
   }
 
   _goNext() {

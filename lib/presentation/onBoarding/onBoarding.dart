@@ -12,7 +12,7 @@ class _OnBoardingViewState extends State<OnBoardingView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: ColorManager.darkprimary,
+      backgroundColor: ColorManager.white,
       body: Center(child: Text("Welcome to on boarding")),
     );
   }
